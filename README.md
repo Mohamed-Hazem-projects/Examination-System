@@ -56,7 +56,3 @@ Database: SQL Server
 
 ## Implementation
 The above requirements serve as the foundation for the development of the automated online examination system. It is crucial to ensure that the system is designed, implemented, and tested in accordance with these specifications to meet the needs of Depi staff and students effectively.
-
-For detailed instructions on setting up and using the system, please refer to the system documentation or contact the system administrator.
-
-For any questions or concerns, please contact Contact Information.
